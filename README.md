@@ -7,3 +7,6 @@ http://www.tutorialspoint.com/android/android_jetplayer.htm
 
 manual: https://developer.android.com/guide/topics/media/jet/jetcreator_manual.html
 example: http://alvinalexander.com/java/jwarehouse/android/media/java/android/media/JetPlayer.java.shtml
+
+more basic:
+https://examples.javacodegeeks.com/desktop-java/sound/play-midi-audio/
